@@ -1,6 +1,6 @@
 # Djnago-Postgres-Docker-Starter
 
-This project is created by alixxx. 
+This project is created by alicmp. 
 
 ## Requirements
 - docker
